@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Processing App</title>
+</head>
+<body>
+    <h1>Image Processing App</h1>
+    
+    <!-- Image Colorization Form -->
+    <form action="/colorize" method="post" enctype="multipart/form-data">
+        <h2>Image Colorization</h2>
+        <input type="file" name="image" accept="image/*"> <!-- Changed name to 'image' -->
+        <button type="submit">Colorize Image</button>
+    </form>
+
+    <br>
+
+    <!-- Image Super-Resolution Form -->
+    <form action="/super_resolve" method="post" enctype="multipart/form-data">
+        <h2>Image Super-Resolution</h2>
+        <input type="file" name="image" accept="image/*"> <!-- Changed name to 'image' -->
+        <button type="submit">Super-Resolve Image</button>
+    </form>
+</body>
+</html>
