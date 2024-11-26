@@ -31,19 +31,20 @@ Upload images, process them, and download the results directly from your browser
   Super-resolution algorithms for image enhancement.
   OpenCV: Image processing and display.
 
-  ## Installation
+## Installation
 
-  Clone the repository:
-  ```bash
-  https://github.com/aryanchauhan007/PIXVERSE.git
-  ```
+Clone the repository:
+```bash
+https://github.com/aryanchauhan007/PIXVERSE.git
+```
 
-  Install dependencies:
-  ```bash
-  pip install -r requirements.txt  
+Install dependencies:
+```bash
+pip install -r requirements.txt  
 ```
 
 Run the application:
+
 ```bash
 python app.py  
 ```
