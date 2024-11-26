@@ -3,7 +3,7 @@
 **PIXVERSE** is a powerful and user-friendly tool that brings life to your images by combining two key features:
 
 - Black-and-White Image Colorization: Transform old or grayscale images into vibrant, colorful masterpieces.
-- 
+  
 - Image Super-Resolution: Enhance low-resolution images by improving their clarity and details.
   This application is ideal for photographers, designers, or anyone looking to revitalize their images with modern deep learning techniques.
 
