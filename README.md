@@ -57,6 +57,10 @@ python app.py
 
 
 ## Screenshots
+![Screenshot 2025-02-06 162119](https://github.com/user-attachments/assets/1c830c26-7449-4194-afd9-5e547489c704)
+
+The before and after result of a black & white image
+
 
 
 
